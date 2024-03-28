@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td>🥰恭喜您成为第</td>
-    <td><img src="https://profile-counter.glitch.me/AabyssZG/count.svg" alt="" /></td>
+    <td><img src="https://profile-counter.glitch.me/yiranloveyou/count.svg" alt="" /></td>
     <td>位访客，感谢您的关注和支持~😍</td>
   </tr>
 </table>
