@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### About me
+### About Me
 ```
 😄 Hello,my id is Yiran(逸然)
 🌱 I’m a student of cybersecurity
